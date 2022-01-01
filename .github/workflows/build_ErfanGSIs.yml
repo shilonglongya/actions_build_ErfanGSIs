@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://122-246-2-1.ksyungslb.com/bigota.d.miui.com/V10.1.1.0.MXDCNFI/miui-ota-cancro-V9.6.4.0.MXDCNFD-V10.1.1.0.MXDCNFI-a6c4d7ae94-6.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
